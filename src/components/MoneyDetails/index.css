@@ -1,0 +1,48 @@
+/* Write your CSS here */
+.money-details-card-heading {
+  font-size: 12px;
+}
+
+.money-details-card-green {
+  background-color: #ecfccb;
+  width: 150px;
+  height: 60px;
+  margin: 5px;
+  border-radius: 7px;
+  padding: 5px;
+  border-style: solid;
+  border-color: #84cc16;
+  display: flex;
+}
+
+.money-details-card-sky-blue {
+  background-color: #cffafe;
+  width: 150px;
+  height: 60px;
+  margin: 5px;
+  border-radius: 7px;
+  padding: 5px;
+  border-style: solid;
+  border-color: #06b6d4;
+  display: flex;
+}
+
+.money-details-card-purple {
+  background-color: #ede9fe;
+  width: 150px;
+  height: 60px;
+  margin: 5px;
+  border-radius: 7px;
+  padding: 5px;
+  border-style: solid;
+  border-color: #7c3aed;
+  display: flex;
+}
+
+.image {
+  margin: 2px;
+}
+
+.money-details-container {
+  display: flex;
+}
